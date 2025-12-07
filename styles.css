@@ -11,8 +11,11 @@
 }
 
 .child {
-    width: 240px;
-    height: 240px;
+    width: 96px;
+    height: 96px;
     background-color: gray;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
   
 }
